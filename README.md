@@ -220,10 +220,6 @@ A typical branching workflow looks like this:
 
 ## 7. Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
 
-Pull requests (PRs) are GitHub's way of saying, "Hey team, I've made some changes. Can you check them out before we add them to the main project?" They're the bridge between individual work and the shared codebase.
-
-Think of pull requests like submitting an article to a newspaper editor you've written something, but before it gets published, it needs review, feedback, and possibly revisions.
-
 Pull requests facilitate code review and collaboration by:
 * Creating a dedicated space for discussing specific changes
 * Providing a visual interface to see exactly what code changed
